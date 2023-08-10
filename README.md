@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/vamshimorlawar/vamshimorlawar/assets/30666128/c25b11a1-fe6e-468f-9036-b3992d716475" alt="Vamshikiran" style="max-height: 150px;">
+<!--   <img src="https://github.com/vamshimorlawar/vamshimorlawar/assets/30666128/c25b11a1-fe6e-468f-9036-b3992d716475" alt="Vamshikiran" style="margin-top:-20px"> -->
   <h3>Hi there 🙋🏻‍♂️, I'm Vamshikiran</h3>
   <p>I'm a Full-Stack Web Developer and Designer</p>
   <p>I love creating creative websites and enjoy the challenge of finding solutions. Connect with me!</p>
