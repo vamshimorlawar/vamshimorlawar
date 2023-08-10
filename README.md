@@ -14,8 +14,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/vamshikiranm/">Linkedin</a>
-<a href="https://medium.com/@vamshikiranm">Medium</a>
+👨🏻‍💻 <a href="https://www.linkedin.com/in/vamshikiranm/">Linkedin</a><br>
+🖋️ <a href="https://medium.com/@vamshikiranm">Medium</a>
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to contact me!
 
@@ -54,7 +54,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 ## 📈 GitHub Stats 
-
-[![Vamshikiran's github stats](https://github-readme-stats.vercel.app/api?username=vamshimorlawar)](https://github.com/vamshimorlawar)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshimorlawar&layout=compact)](https://github.com/vamshimorlawar)
