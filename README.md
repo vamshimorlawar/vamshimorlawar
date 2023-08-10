@@ -1,57 +1,37 @@
-<p align="center">
-  
-</p>
+<div align="left">
+  <h3>Hi there 🙋🏻‍♂️, I'm Vamshikiran</h3>
+  <p>I'm a Full-Stack Web Developer and Designer</p>
+  <p>I love creating creative websites and enjoy the challenge of finding solutions. Connect with me!</p>
 
-<h3>
-Hi there, I'm Vamshikiran
-</h3>
+  <a href="https://www.linkedin.com/in/vamshikiranm/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@vamshikiranm">
+    <img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium">
+  </a>
 
-<h3>
-I'm a Full-Stack Web Developer and Designer
-</h2> 
+  <h4>Worked with:</h4>
+  <ul>
+    <li>Pepsico</li>
+    <li>Hyundai & Kia</li>
+    <li>Innocean Worldwide</li>
+    <li>IIT Kanpur</li>
+    <li>50+ Clients</li>
+  </ul>
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. Learning how people hide things and where people are likely to look.
+  <h4>Currently working on:</h4>
+  <p>NextJS, Firebase, Data Structure & Algorithms, Competitive Programming</p>
 
-### 🤝 Connect with me:
+  <h4>Technical Skills:</h4>
+  <img src="https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-Code-E34F26?style=flat-square&logo=HTML5&logoColor=black" alt="HTML5">
+  <img src="https://img.shields.io/badge/React-Code-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/SQLite-Code-003B57?style=flat-square&logo=SQLite&logoColor=white" alt="SQLite"><br>
+  <img src="https://img.shields.io/badge/Bootstrap-Style-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/CSS3-Style-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Figma-Tool-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/NPM-Tool-CB3837?style=flat-square&logo=NPM&logoColor=white" alt="NPM">
 
-👨🏻‍💻 <a href="https://www.linkedin.com/in/vamshikiranm/">Linkedin</a><br>
-🖋️ <a href="https://medium.com/@vamshikiranm">Medium</a>
-</br>
-- 💬 If you have any questions/feedback, please do not hesitate to contact me!
-
-## 🔭 I'm worked with/for/on
-
-- Pepsico
-- Hyundai & Kia
-- Innocean Worldwide
-- IIT Kanpur
-- 50+ Clients
-
-## 🌱 I'm currently working on
-
-- NextJS
-- Firebase
-- Data Structure & Algorithms
-- Competitive Programming  
-
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-
-
-## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshimorlawar&layout=compact)](https://github.com/vamshimorlawar)
+  <h4>GitHub Stats:</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshimorlawar&layout=compact" alt="Top Languages">
+</div>
