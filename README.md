@@ -20,7 +20,13 @@
   </ul>
 
   <h4>Currently working on:</h4>
-  <p>NextJS, Firebase, Data Structure & Algorithms, Competitive Programming</p>
+  <ul>
+    <li>NextJS</li>
+    <li>Firebase</li>
+    <li>Data Structures & Algorithms</li>
+    <li>Competitive Programming</li>
+  </ul>
+
 
   <h4>Technical Skills:</h4>
   <img src="https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
