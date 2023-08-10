@@ -6,7 +6,7 @@
 Hi there, I'm Vamshikiran
 </h3>
 
-<h2>
+<h3>
 I'm a Full-Stack Web Developer and Designer
 </h2> 
 
