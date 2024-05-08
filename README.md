@@ -20,16 +20,9 @@
     <li>50+ Clients</li>
   </ul>
 
-  <h4>Currently working on:</h4>
-  <ul>
-    <li>NextJS</li>
-    <li>Firebase</li>
-    <li>Data Structures & Algorithms</li>
-    <li>Competitive Programming</li>
-  </ul>
-
 
   <h4>Technical Skills:</h4>
+  <img src="https://img.shields.io/badge/NextJS-Code-F7DF1E?style=flat-square&logo=NextJS&logoColor=black" alt="NextJS">
   <img src="https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-Code-E34F26?style=flat-square&logo=HTML5&logoColor=black" alt="HTML5">
   <img src="https://img.shields.io/badge/React-Code-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
