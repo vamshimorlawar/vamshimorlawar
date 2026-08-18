@@ -1,16 +1,38 @@
 <h1 align="center">Vamshikiran Morlawar</h1>
 
 <p align="center">
-  <b>Full-stack engineer.</b> I ship small products end to end — build it, publish it, take the support emails, charge for it.
+  <b>Senior Software Engineer at <a href="https://razorpay.com">Razorpay</a></b> — payments infrastructure.<br>
+  Ex-Pine Labs. MTech CSE, IIT Kanpur. I build fintech systems by day and ship small products on the side.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=googlemaps&logoColor=white" alt="India">
-  <img src="https://img.shields.io/badge/IIT%20Kanpur-004C8C?style=flat-square&logo=graduation-cap&logoColor=white" alt="IIT Kanpur">
-  <img src="https://img.shields.io/badge/Open%20to-Full--stack%20%26%20Backend%20roles-2ea44f?style=flat-square" alt="Open to roles">
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay">
+  <img src="https://img.shields.io/badge/Ex%E2%80%91Pine%20Labs-E4022D?style=flat-square" alt="Ex Pine Labs">
+  <img src="https://img.shields.io/badge/MTech-IIT%20Kanpur-004C8C?style=flat-square" alt="MTech IIT Kanpur">
+  <img src="https://img.shields.io/badge/GATE%202020%20CS-AIR%20343-6f42c1?style=flat-square" alt="AIR 343 GATE 2020">
+  <img src="https://img.shields.io/badge/Bengaluru-FF9933?style=flat-square&logo=googlemaps&logoColor=white" alt="Bengaluru">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/vamshikiranm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vamshimorlawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Backend%20%26%20Full--stack%20roles-2ea44f?style=flat-square" alt="Open to roles">
 </p>
+
+---
+
+## 💼 Experience
+
+**Senior Software Engineer** · Razorpay · *Bengaluru*
+Payments infrastructure for India's largest fintech ecosystem.
+
+**Software Engineer** · Pine Labs
+Designed and optimised APIs for the core payment gateway. Shipped EMI with instant cashback and instant subvention. *Employee of the Quarter.*
+
+**MTech, Computer Science & Engineering** · IIT Kanpur
+Thesis under Prof. Arnab Bhattacharya. AIR 343 in GATE 2020 CS.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white">
 
 ---
 
@@ -120,6 +142,19 @@ flowchart LR
 | Fixed interval is a fingerprint | Off-hours polling jittered within a range |
 
 Design rationale and the end-to-end latency budget: [ARCHITECTURE.md](https://github.com/vamshimorlawar/bsewatch/blob/main/ARCHITECTURE.md)
+
+---
+
+## 🏆 Hackathons
+
+**OpenCode Buildathon** · GrowthX × Razorpay — **Top 15 of 3,000+ applications**, 150 teams shortlisted.
+Built an agentic payment system exploring how autonomous agents can drive payment flows with minimal human intervention.
+
+**Sarvam AI Buildathon** — *Swayam*.
+BSE/NSE announcements delivered as instant plain-language summaries in your own language, over WhatsApp, Telegram, or an automated phone call that reads them out. Built for the retail investor who gets a filing alert and can't parse the legalese.
+
+**Computer by DevRev Hackathon** — AI-native on-call handoff.
+A reusable Skill that pulls DevRev tickets, Slack threads, and GitHub PR history into a structured, source-cited handoff with decisions, blockers, and next actions — so on-call context isn't rebuilt from scratch every rotation.
 
 ---
 
