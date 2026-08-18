@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=googlemaps&logoColor=white" alt="India">
   <img src="https://img.shields.io/badge/IIT%20Kanpur-004C8C?style=flat-square&logo=graduation-cap&logoColor=white" alt="IIT Kanpur">
   <img src="https://img.shields.io/badge/Open%20to-Full--stack%20%26%20Backend%20roles-2ea44f?style=flat-square" alt="Open to roles">
+  <a href="https://www.linkedin.com/in/vamshikiranm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vamshimorlawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -161,5 +162,6 @@ Design rationale and the end-to-end latency budget: [ARCHITECTURE.md](https://gi
 ---
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/vamshikiranm"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vamshimorlawar@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
