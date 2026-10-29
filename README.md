@@ -1,12 +1,12 @@
 <h1 align="center">Vamshikiran Morlawar</h1>
 
 <p align="center">
-  <b>Senior Software Engineer at Meta</b> (via Delart).<br>
+  <b>Senior Software Engineer at Delart</b> — building large-scale systems for a Big Tech client.<br>
   Ex-Razorpay, ex-Pine Labs — payments infrastructure. MTech CSE, IIT Kanpur. I build large-scale systems by day and ship small products on the side.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Meta-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta">
+  <img src="https://img.shields.io/badge/Delart-0081FB?style=flat-square" alt="Delart">
   <img src="https://img.shields.io/badge/Ex%E2%80%91Razorpay%20%C2%B7%20Ex%E2%80%91Pine%20Labs-555?style=flat-square" alt="Ex Razorpay, Ex Pine Labs">
   <img src="https://img.shields.io/badge/MTech-IIT%20Kanpur-004C8C?style=flat-square" alt="MTech IIT Kanpur">
   <img src="https://img.shields.io/badge/GATE%202022%20CS-AIR%20343-6f42c1?style=flat-square" alt="AIR 343 GATE 2022">
@@ -22,7 +22,8 @@
 
 ## 💼 Experience
 
-**Senior Software Engineer** · Meta (via Delart) · *Bengaluru* · Oct 2026 –
+**Senior Software Engineer** · Delart · *Bengaluru* · Oct 2026 –
+Large-scale infrastructure for a Big Tech client.
 
 **Senior Software Engineer** · Razorpay · 2025 – 2026
 Payments infrastructure for India's largest fintech ecosystem — gateway integrations and the end-to-end QR UPI payment lifecycle.
