@@ -1,36 +1,37 @@
 <h1 align="center">Vamshikiran Morlawar</h1>
 
 <p align="center">
-  <b>Senior Software Engineer at <a href="https://razorpay.com">Razorpay</a></b> — payments infrastructure.<br>
-  Ex-Pine Labs. MTech CSE, IIT Kanpur. I build fintech systems by day and ship small products on the side.
+  <b>Senior Software Engineer at Meta</b> (via Delart).<br>
+  Ex-Razorpay, ex-Pine Labs — payments infrastructure. MTech CSE, IIT Kanpur. I build large-scale systems by day and ship small products on the side.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay">
-  <img src="https://img.shields.io/badge/Ex%E2%80%91Pine%20Labs-E4022D?style=flat-square" alt="Ex Pine Labs">
+  <img src="https://img.shields.io/badge/Meta-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta">
+  <img src="https://img.shields.io/badge/Ex%E2%80%91Razorpay%20%C2%B7%20Ex%E2%80%91Pine%20Labs-555?style=flat-square" alt="Ex Razorpay, Ex Pine Labs">
   <img src="https://img.shields.io/badge/MTech-IIT%20Kanpur-004C8C?style=flat-square" alt="MTech IIT Kanpur">
-  <img src="https://img.shields.io/badge/GATE%202020%20CS-AIR%20343-6f42c1?style=flat-square" alt="AIR 343 GATE 2020">
+  <img src="https://img.shields.io/badge/GATE%202022%20CS-AIR%20343-6f42c1?style=flat-square" alt="AIR 343 GATE 2022">
   <img src="https://img.shields.io/badge/Bengaluru-FF9933?style=flat-square&logo=googlemaps&logoColor=white" alt="Bengaluru">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vamshikiranm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vamshimorlawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20%26%20Full--stack%20roles-2ea44f?style=flat-square" alt="Open to roles">
 </p>
 
 ---
 
 ## 💼 Experience
 
-**Senior Software Engineer** · Razorpay · *Bengaluru*
-Payments infrastructure for India's largest fintech ecosystem.
+**Senior Software Engineer** · Meta (via Delart) · *Bengaluru* · Oct 2026 –
+
+**Senior Software Engineer** · Razorpay · 2025 – 2026
+Payments infrastructure for India's largest fintech ecosystem — gateway integrations and the end-to-end QR UPI payment lifecycle.
 
 **Software Engineer** · Pine Labs
 Designed and optimised APIs for the core payment gateway. Shipped EMI with instant cashback and instant subvention. *Employee of the Quarter.*
 
 **MTech, Computer Science & Engineering** · IIT Kanpur
-Thesis under Prof. Arnab Bhattacharya. AIR 343 in GATE 2020 CS.
+Thesis under Prof. Arnab Bhattacharya. AIR 343 in GATE 2022 CS.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white">
 
